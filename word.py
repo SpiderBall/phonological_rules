@@ -6,7 +6,7 @@
 
 import sys
 
-def class Word(object):
+class Word(object):
 	"""This is a class to create a phonological word for the primary
 	purposes of applying phonological rules to broad transcriptions of
 	words to allophonic transcriptions, and to search a list of words
